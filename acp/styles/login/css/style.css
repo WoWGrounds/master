@@ -1,0 +1,95 @@
+/*
+CSS By Azer, Copyright 2011 Azer CMS. All Rights Reserved.-->
+Style Version: ACMS V3.0
+*/
+body
+{
+  margin:0px;
+  font-family:Trojan Pro;
+  background:#efefef;
+  font-size:11px;
+  color:#343235;
+}
+
+body a
+{
+  color:#343235;
+  text-decoration:underline;
+}
+
+.logo
+{
+  width:335px;
+  height:60px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:15%;
+  text-align:center;
+  font-size:50px;
+}
+
+.body
+{
+  width:335px;
+  height:135px;
+  border:1px solid #cccccc;
+  margin-left:auto;
+  margin-right:auto;
+  background:#efefef url(../images/login.png);
+  -moz-box-shadow: 0px 0px 5px #ccc;
+  -webkit-box-shadow: 0px 0px 5px #ccc;
+  box-shadow: 0px 0px 5px #ccc;
+}
+
+.info
+{
+  width:333px;
+  height:30px;
+  background:#e0e0e0;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  text-align:center;
+}
+
+#login
+{
+  height:13px;
+  background:#efefef;
+  border:1px solid #cccccc;
+  color:#cccccc;
+}
+
+#login:focus
+{
+  outline:none;
+  border:1px solid #343235;
+  color:#343235;
+}
+
+#log
+{
+  height:58px;
+  color:#343235;
+}
+
+#tl
+{
+  margin-top:16px;
+  margin-bottom:16px;
+}
+
+#acms
+{
+  padding:0px;
+  border:none;
+  cursor: pointer;
+  background: transparent;
+  text-decoration: underline;
+  font-size:11px;
+}
+
+#ci
+{
+  padding-top:3px;
+}
